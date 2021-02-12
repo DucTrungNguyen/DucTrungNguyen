@@ -12,241 +12,295 @@ Here are all cards with themes.
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/default/0-profile-details.svg)
+![](./default/0-profile-details.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/default/1-repos-per-language.svg)
+![](./default/1-repos-per-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/default/2-most-commit-language.svg)
+![](./default/2-most-commit-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/default/3-stats.svg)
+![](./default/3-stats.svg)
+
+
+```
+[![](./default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+![](./default/4-productive-time.svg)
 
 
 ### solarized
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized/0-profile-details.svg)
+![](./solarized/0-profile-details.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
+![](./solarized/1-repos-per-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
+![](./solarized/2-most-commit-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized/3-stats.svg)
+![](./solarized/3-stats.svg)
+
+
+```
+[![](./solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+![](./solarized/4-productive-time.svg)
 
 
 ### solarized_dark
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)
+![](./solarized_dark/0-profile-details.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
+![](./solarized_dark/1-repos-per-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
+![](./solarized_dark/2-most-commit-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/solarized_dark/3-stats.svg)
+![](./solarized_dark/3-stats.svg)
+
+
+```
+[![](./solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+![](./solarized_dark/4-productive-time.svg)
 
 
 ### vue
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/vue/0-profile-details.svg)
+![](./vue/0-profile-details.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/vue/1-repos-per-language.svg)
+![](./vue/1-repos-per-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/vue/2-most-commit-language.svg)
+![](./vue/2-most-commit-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/vue/3-stats.svg)
+![](./vue/3-stats.svg)
+
+
+```
+[![](./vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+![](./vue/4-productive-time.svg)
 
 
 ### dracula
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/dracula/0-profile-details.svg)
+![](./dracula/0-profile-details.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
+![](./dracula/1-repos-per-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
+![](./dracula/2-most-commit-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/dracula/3-stats.svg)
+![](./dracula/3-stats.svg)
+
+
+```
+[![](./dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+![](./dracula/4-productive-time.svg)
 
 
 ### monokai
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/monokai/0-profile-details.svg)
+![](./monokai/0-profile-details.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/monokai/1-repos-per-language.svg)
+![](./monokai/1-repos-per-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/monokai/2-most-commit-language.svg)
+![](./monokai/2-most-commit-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/monokai/3-stats.svg)
+![](./monokai/3-stats.svg)
+
+
+```
+[![](./monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+![](./monokai/4-productive-time.svg)
 
 
 ### nord_bright
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
+![](./nord_bright/0-profile-details.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
+![](./nord_bright/1-repos-per-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
+![](./nord_bright/2-most-commit-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_bright/3-stats.svg)
+![](./nord_bright/3-stats.svg)
+
+
+```
+[![](./nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+![](./nord_bright/4-productive-time.svg)
 
 
 ### nord_dark
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](./nord_dark/0-profile-details.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+![](./nord_dark/1-repos-per-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+![](./nord_dark/2-most-commit-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/nord_dark/3-stats.svg)
+![](./nord_dark/3-stats.svg)
+
+
+```
+[![](./nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+![](./nord_dark/4-productive-time.svg)
 
 
 ### github
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/github/0-profile-details.svg)
+![](./github/0-profile-details.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/github/1-repos-per-language.svg)
+![](./github/1-repos-per-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/github/2-most-commit-language.svg)
+![](./github/2-most-commit-language.svg)
 
 
 ```
-[![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
-![](https://raw.githubusercontent.com/DucTrungNguyen/DucTrungNguyen/master/profile-summary-card-output/github/3-stats.svg)
+![](./github/3-stats.svg)
+
+
+```
+[![](./github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+![](./github/4-productive-time.svg)
 
