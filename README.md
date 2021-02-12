@@ -8,7 +8,9 @@
     
    <br>
    <a href="https://profile-summary-for-github.com/user/DucTrungNguyen">https://profile-summary-for-github.com/user/DucTrungNguyen</a>
-  </p>
+ </p>
+  
+### Github Stats
 ![DucTrungNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DucTrungNguyen&show_icons=true&theme=radical&cache_seconds=1800&count_private=true)
 [![](./profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/DucTrungNguyen/DucTrungNguyen)
 [![](./profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/DucTrungNguyen/DucTrungNguyen)
