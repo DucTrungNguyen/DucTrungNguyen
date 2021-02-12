@@ -10,5 +10,7 @@ Developer
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DucTrungNguyen)](https://github.com/DucTrungNguyen/DucTrungNguyen)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DucTrungNguyen&show_icons=true)
+
 # Others
 ![](https://komarev.com/ghpvc/?username=DucTrungNguyen&color=green)
